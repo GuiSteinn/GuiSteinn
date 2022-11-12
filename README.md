@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Guilherme Stein
 
 - 🌱 Estudando JavaScript,PhP, e Html
-- 📫 contate-me no email: 
-- 😄 Pronouns: ele/dele
+- 📫 contate-me no email: contatoguilhermestein@gmail.com
 
 ##
 
